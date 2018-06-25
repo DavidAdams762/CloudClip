@@ -3,3 +3,8 @@
 ################################################################################
 
 /elasticache_auto_discovery
+/pymemcache
+/redis
+/CloudClip.zip
+/.vs
+/output.txt
